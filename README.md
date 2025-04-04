@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
+<h1 align="center">Hi👋, I'm Pavan</h1>
 <h3 align="center">Honors CS Student @ UH | Aspiring Finance & Math Minor | Passionate About Tech, Business & Analytics</h3>
 
 - 🌱 I’m currently learning **Julia, Diff EQ's, Frontend with React & TypeScript**
