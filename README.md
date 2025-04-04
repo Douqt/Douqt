@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Pavan</h1>
-<h3 align="center">Honors CS Student @ UH | Aspiring Finance & Math Minor | Passionate About Tech, Business & Analytics</h3>
+<h3 align="center">Honors CS student at UH | Finance & Math minor | Focused on quantitative development & tech-business</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douqt&label=Profile%20views&color=0e75b6&style=flat" alt="douqt" /> </p>
 
